@@ -63,26 +63,20 @@ I'm a web developer who enjoys building clean, functional applications from the 
 
 </div>
 
-<sub>Contribution snake — requires a one-time GitHub Action setup (see note below).</sub>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasinjbd/yasinjbd/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/yasinjbd/yasinjbd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
 
-<br>
 
 ## Education & Certifications
 
-**Tehran Fanni Herfei Institute (مجتمع فنی تهران)**
+**TEHRAN INSTITUTE OF TECHNOLOGY (مجتمع فنی تهران)**
 
-<img src="https://img.shields.io/badge/Certificate-Web_Design_Pack-059669?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/Certificate-React-059669?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Certificate-Python-059669?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://mftplus.com/student/certificate?ref=649c4825e0ccbcec38ecfe4f"/>
+<img src="[https://img.shields.io/badge/Certificate-React-059669?style=for-the-badge&logo=react&logoColor=white](https://mftplus.com/student/certificate?ref=6873c1451eab1147da0b17f5)"/>
+<img src="[https://img.shields.io/badge/Certificate-Python-059669?style=for-the-badge&logo=python&logoColor=white](https://mftplus.com/student/certificate?ref=68e684f92192da8f3509df16)"/>
 
 <br>
 
-## Contact
+
 
 <div align="center">
 
