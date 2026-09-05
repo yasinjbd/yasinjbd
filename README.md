@@ -53,18 +53,6 @@ I'm a web developer who enjoys building clean, functional applications from the 
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasinjbd&show_icons=true&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=A78BFA&icon_color=C4B5FD&text_color=C9D1D9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinjbd&layout=compact&theme=radical&hide_border=true&bg_color=1A0B2E&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinjbd&theme=radical&hide_border=true&background=1A0B2E&stroke=7C3AED&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasinjbd&theme=react-dark&hide_border=true&bg_color=1A0B2E&color=A78BFA&line=C4B5FD&point=FFFFFF&area=true&area_color=7C3AED" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yasinjbd&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
 
 <sub>Contribution snake — requires a one-time GitHub Action setup (see note below).</sub>
 
