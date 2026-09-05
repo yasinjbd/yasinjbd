@@ -7,7 +7,7 @@
 
 <!-- Your custom banner goes above this line -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Building+clean%2C+scalable+web+apps;Python+%E2%80%A2+Django+%E2%80%A2+React;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="banner.png"/>
 
 <br/><br/>
 
