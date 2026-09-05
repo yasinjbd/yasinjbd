@@ -1,8 +1,11 @@
+<!-- ============================================= -->
+<!-- 🟢 PUT YOUR OWN BANNER IMAGE/GIF HERE -->
+<!-- Example: <img src="your-banner-url-or-path" width="100%"/> -->
+<!-- ============================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F17,50:0F2E22,100:14432E&height=260&section=header&text=Yasin&fontSize=80&fontColor=34D399&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20&descColor=6EE7B7" width="100%"/>
-
-<br/>
+<!-- Your custom banner goes above this line -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=600&height=50&lines=Building+clean%2C+scalable+web+apps;Python+%E2%80%A2+Django+%E2%80%A2+React;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -26,25 +29,27 @@ I'm a web developer who enjoys building clean, functional applications from the 
 
 <br>
 
+<!-- ============================================= -->
+<!-- 🟢 MOVING TEXT BANNER -->
+<!-- ============================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=6EE7B7&center=true&vCenter=true&width=800&height=40&lines=Clean+code+is+not+written+by+following+rules.+It's+written+by+programmers+who+care.;Simplicity+is+the+soul+of+efficiency.;Every+expert+was+once+a+beginner." />
+
+</div>
+
+<br>
+
 ## Tech Stack
 
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=python,django" />
+<div align="center">
 
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,sass" />
-<br>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,react,bootstrap,sass,sqlite,postgres,figma,npm,vscode,github,git" />
+
 <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white"/>
 
-**Database**
-<br>
-<img src="https://skillicons.dev/icons?i=sqlite,postgres" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=figma,npm,vscode,github,git" />
+</div>
 
 <br>
 
@@ -63,20 +68,26 @@ I'm a web developer who enjoys building clean, functional applications from the 
 
 </div>
 
+<sub>Contribution snake — requires a one-time GitHub Action setup (see note below).</sub>
 
-
-
-## Education & Certifications
-
-**TEHRAN INSTITUTE OF TECHNOLOGY (مجتمع فنی تهران)**
-
-<img src="https://mftplus.com/student/certificate?ref=649c4825e0ccbcec38ecfe4f"/>
-<img src="[https://img.shields.io/badge/Certificate-React-059669?style=for-the-badge&logo=react&logoColor=white](https://mftplus.com/student/certificate?ref=6873c1451eab1147da0b17f5)"/>
-<img src="[https://img.shields.io/badge/Certificate-Python-059669?style=for-the-badge&logo=python&logoColor=white](https://mftplus.com/student/certificate?ref=68e684f92192da8f3509df16)"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasinjbd/yasinjbd/output/github-contribution-grid-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/yasinjbd/yasinjbd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 <br>
 
+## Education & Certifications
 
+**Tehran Fanni Herfei Institute (مجتمع فنی تهران)**
+
+- 🎓 Web Design Pack Certificate
+- 🎓 React Certificate
+- 🎓 Python Certificate
+
+<br>
+
+## Contact
 
 <div align="center">
 
