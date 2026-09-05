@@ -65,7 +65,7 @@ I'm a web developer who enjoys building clean, functional applications from the 
 
 ## Education & Certifications
 
-**Tehran Fanni Herfei Institute (مجتمع فنی تهران)**
+**TEHRAN INSTITUTE OF TECHNOLOGY(مجتمع فنی تهران)**
 
 - 🎓 Web Design Pack Certificate
 - 🎓 React Certificate
